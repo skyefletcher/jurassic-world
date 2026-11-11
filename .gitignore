@@ -1,0 +1,14 @@
+# Godot cache, imports and C# build output
+.godot/
+.runtime/
+
+# IDE files
+.vs/
+.idea/
+*.user
+
+# Blender automatic backups (keep the editable .blend files)
+*.blend[0-9]
+
+# Claude Code local settings and worktrees
+.claude/

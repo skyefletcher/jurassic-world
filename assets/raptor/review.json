@@ -1,0 +1,28 @@
+{
+  "source_rest_height": 1.981011647498235,
+  "export_scale_correction": 0.2496415305480913,
+  "skin_weights_per_vertex": 8,
+  "source": "art/raptor/raptor-blue-detailed-review.blend",
+  "appearance": "Silver-grey scales with one shared opaque tail-style blue paint layer and pale edging across all markings, white-outlined blue eye patch traced from the supplied outline, with a continuous neck stripe routed down the rear neck and around its base, blue lateral stripe, detailed scale normals and charcoal claws. Original anatomy retained.",
+  "author": "Ferocious Industries",
+  "clips": {
+    "Idle": "Raptor_Idl_7157f69",
+    "Walk": "Raptor_Wal_63c0d2e",
+    "Run": "Raptor_Run_9fcf3e1",
+    "Bite": "Raptor_Bit_a12e3d9",
+    "Eat": "Raptor_Eat_31d2c49",
+    "Drink": "Raptor_Dri_8ec25a0",
+    "Roar": "Raptor_Roa_7ac4aad",
+    "BiteHeavy": "Raptor_Bit_b252254",
+    "Scratch": "Raptor_Scr_0df2e27",
+    "GoToSleep": "Raptor_GoT_62dbb30",
+    "Sleep": "Raptor_Sle_2d2791d",
+    "Leap": "Raptor_Lea_547539a",
+    "Death": "Raptor_Dea_a16445c"
+  },
+  "fps": 24,
+  "walk_reference_speed": 2.2451612903225806,
+  "run_reference_speed": 4.794,
+  "reference_note": "Metres/second derived from corresponding source root-motion clips at original scale; approximate, not foot-lock IK.",
+  "neck": "Original approved shape, no neck correction"
+}
